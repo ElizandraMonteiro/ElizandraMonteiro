@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Elizandra Monteiro 👋
 
-<!--
-**ElizandraMonteiro/ElizandraMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+🚀 I'm a Full Stack Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+-⚡️ Main language: `Javascrtipt`
+-📡 Backend: `Nodejs`
+-🎉 Frontend: `Reactjs`,  `HTML5`,  `CSS3`,  `Javascrtipt`
+-🎨 Layout Design: `Figma`
+-🧑‍💻 Version code control: `Git & Github`
+-🔨 Tools:  `VsCode`,  `Markdown`
+-🌐 I'm mostly active within the  `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+-📧 Email: monteiroelizandra2017@gmail.com
+-👤 Linkedin: https://www.linkedin.com/in/elizandra-monteiro
