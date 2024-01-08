@@ -1,6 +1,6 @@
 ### Hi there, I'm Elizandra Monteiro 👋
 
-<img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0032.gif' />
+<img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0097.gif' />
 
 
 
